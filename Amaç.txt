@@ -1,0 +1,11 @@
+Baþarýlý olma durumuna göre öðrenci kategorilerini yüzdelik dilime ayýr
+-95 ve üzerinde not almýþ örenciler 
+-Tüm örenciler
+-Cinsiyete göre not ortalamalarý
+-Irka göre not ortalamalarý
+
+*Cinsiyet yüzdesi
+*Irk yüzdesi
+*Yemek durumu yüzdesi
+*Kurs
+*Öðrenim durumu yüzdesi
