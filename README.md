@@ -1,2 +1,2 @@
 # Student-Performance-Exam-Analysis
-Öğrencilerin sınavda gösterdiği performansa göre analiz
+Amerika'da öğrencilerin sınavda gösterdiği performansa göre analiz
